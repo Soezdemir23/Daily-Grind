@@ -1,0 +1,8 @@
+ul{
+    list-style: none;
+}
+
+.submenu {
+    display: flex;
+    gap:5%;
+}
